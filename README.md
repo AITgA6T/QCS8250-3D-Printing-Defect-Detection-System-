@@ -1,4 +1,4 @@
-# QCS8250-3D-Printing-Defect-Detection-System-
+# QCS8250-3D-Printing-Defect-Detection-System
 
 ## Advantages of QCS8250
 
@@ -13,8 +13,8 @@
 
 ## Hardware
 
-- **Platform**: Qualcomm QCS6490 (Dragonwing RB3 Gen 2)
-- **Cameras**:  4 × USB cameras (2 × USB 3.0 ports, 2 × Type-C via USB Hub)
+- **Platform**: Qualcomm QCS8250 
+- **Cameras**:   USB camera + FLIR camera
 - **Connectivity**:  Wi-Fi + Bluetooth Low Energy (BLE)
 
 ## Software & Toolkit

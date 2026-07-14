@@ -8,7 +8,7 @@
 
 ## Performance Metrics
 
-- **AI Model**:
+
 - AI Model: YOLOv5
 
 ## Hardware

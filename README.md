@@ -1,4 +1,4 @@
-# QCS8250-3D-Printing-Defect-Detection-System
+# QCS8250 3D Printing Defect Detection System
 
 ## Advantages of QCS8250
 
@@ -8,12 +8,11 @@
 
 ## Performance Metrics
 
-
 - AI Model: YOLOv5
 
 ## Hardware
 
-- **Platform**: Qualcomm QCS8250 
+- **Platform**: ![Qualcomm QCS8250](https://www.qualcomm.com/internet-of-things/products/q8-series/qcs8250) 
 - **Cameras**:   USB camera + FLIR camera
 - **Connectivity**:  Wi-Fi + Bluetooth Low Energy (BLE)
 

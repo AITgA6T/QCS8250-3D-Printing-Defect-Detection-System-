@@ -1,4 +1,4 @@
-# QCS8250 3D Printing Defect Detection System
+# Qualcomm QCS8250 3D Printing Defect Detection System
 
 ## Advantages of QCS8250
 

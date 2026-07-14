@@ -12,7 +12,7 @@
 
 ## Hardware
 
-- **Platform**: ![Qualcomm QCS8250](https://www.qualcomm.com/internet-of-things/products/q8-series/qcs8250) 
+- **Platform**: [Qualcomm QCS8250](https://www.qualcomm.com/internet-of-things/products/q8-series/qcs8250) 
 - **Cameras**:   USB camera + FLIR camera
 - **Connectivity**:  Wi-Fi + Bluetooth Low Energy (BLE)
 
